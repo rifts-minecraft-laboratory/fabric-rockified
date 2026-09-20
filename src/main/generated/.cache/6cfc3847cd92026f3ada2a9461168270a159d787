@@ -1,0 +1,4 @@
+// 26.2	-999999999-01-01T00:00:00	Rockified/Tags for minecraft:block
+0eb69da97b2ce3c9252d7238e07eeed6d92daa7d data/rockified/tags/block/has_additional_cobbled_deepslate_drop.json
+84153fbad73f58a6686f95d548453c723c61436e data/rockified/tags/block/has_additional_cobblestone_drop.json
+dd268d3630ab05ea1dade4a7f2f279ecdc2b7943 data/rockified/tags/block/has_additional_netherrack_drop.json
