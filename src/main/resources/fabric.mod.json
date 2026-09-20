@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"fr.noahboos.rockified.client.RockifiedClient"
+		],
+		"fabric-datagen": [
+			"fr.noahboos.rockified.client.datagen.RockifiedDataGenerator"
 		]
 	},
 	"mixins": [
