@@ -1,4 +1,4 @@
-# Rift Source-Available Project License v1.0 (RSAPLv1.0)
+# Rift Source-Available Project License v2.0 (RSAPLv2.0)
 
 **This license applies to “Rockified”.**
 
@@ -16,6 +16,7 @@ This software and its source code are distributed under the terms of this licens
 6. **You may charge for products or services that use the compiled software**, provided that the charge is primarily for your own original work (e.g., features or services), and not for this project’s compiled form itself.
 7. **This license does not prevent you from combining this project with other projects**, as long as the terms of this license are respected for the parts derived from this project.
 8. When this project is distributed together with other software or materials, **you must comply with the terms of this license and with the terms of any other applicable licenses**.
+9. **If the project to which this license is attached is built on another project** (for example, a Minecraft mod is built on the Minecraft game)**, the permissions granted by this license are limited by the terms of that other project's license or EULA.** Where those terms are more restrictive, they take precedence over this license. This license does not grant any right to violate such other terms.
 
 ## Liability
 
