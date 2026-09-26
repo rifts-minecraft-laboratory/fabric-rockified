@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/rockified/icon.png",
+	"icon": "assets/rockified/logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
